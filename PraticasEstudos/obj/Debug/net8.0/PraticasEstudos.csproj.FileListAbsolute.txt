@@ -1,0 +1,14 @@
+C:\c#projects\PraticasEstudos\bin\Debug\net8.0\PraticasEstudos.exe
+C:\c#projects\PraticasEstudos\bin\Debug\net8.0\PraticasEstudos.deps.json
+C:\c#projects\PraticasEstudos\bin\Debug\net8.0\PraticasEstudos.runtimeconfig.json
+C:\c#projects\PraticasEstudos\bin\Debug\net8.0\PraticasEstudos.dll
+C:\c#projects\PraticasEstudos\bin\Debug\net8.0\PraticasEstudos.pdb
+C:\c#projects\PraticasEstudos\obj\Debug\net8.0\PraticasEstudos.GeneratedMSBuildEditorConfig.editorconfig
+C:\c#projects\PraticasEstudos\obj\Debug\net8.0\PraticasEstudos.AssemblyInfoInputs.cache
+C:\c#projects\PraticasEstudos\obj\Debug\net8.0\PraticasEstudos.AssemblyInfo.cs
+C:\c#projects\PraticasEstudos\obj\Debug\net8.0\PraticasEstudos.csproj.CoreCompileInputs.cache
+C:\c#projects\PraticasEstudos\obj\Debug\net8.0\PraticasEstudos.dll
+C:\c#projects\PraticasEstudos\obj\Debug\net8.0\refint\PraticasEstudos.dll
+C:\c#projects\PraticasEstudos\obj\Debug\net8.0\PraticasEstudos.pdb
+C:\c#projects\PraticasEstudos\obj\Debug\net8.0\PraticasEstudos.genruntimeconfig.cache
+C:\c#projects\PraticasEstudos\obj\Debug\net8.0\ref\PraticasEstudos.dll

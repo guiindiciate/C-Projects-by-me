@@ -1,0 +1,22 @@
+using System;
+using System.Globalization;
+using System.Text;
+
+namespace PraticasEstudos
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.Clear();
+
+            decimal valor = 10.25m;
+            // var culture = CultureInfo.CreateSpecificCulture;
+            Console.WriteLine(valor.ToString(
+                "C", //N - SEM FORMATAÇÃO DE MOEDA, PORÉM COMPLETO.
+                CultureInfo.CreateSpecificCulture("en-NZ")
+            ));
+
+        }
+    }
+}

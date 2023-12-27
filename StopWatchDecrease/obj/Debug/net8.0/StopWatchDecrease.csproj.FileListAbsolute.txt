@@ -1,0 +1,14 @@
+C:\c#projects\StopWatchDecrease\bin\Debug\net8.0\StopWatchDecrease.exe
+C:\c#projects\StopWatchDecrease\bin\Debug\net8.0\StopWatchDecrease.deps.json
+C:\c#projects\StopWatchDecrease\bin\Debug\net8.0\StopWatchDecrease.runtimeconfig.json
+C:\c#projects\StopWatchDecrease\bin\Debug\net8.0\StopWatchDecrease.dll
+C:\c#projects\StopWatchDecrease\bin\Debug\net8.0\StopWatchDecrease.pdb
+C:\c#projects\StopWatchDecrease\obj\Debug\net8.0\StopWatchDecrease.GeneratedMSBuildEditorConfig.editorconfig
+C:\c#projects\StopWatchDecrease\obj\Debug\net8.0\StopWatchDecrease.AssemblyInfoInputs.cache
+C:\c#projects\StopWatchDecrease\obj\Debug\net8.0\StopWatchDecrease.AssemblyInfo.cs
+C:\c#projects\StopWatchDecrease\obj\Debug\net8.0\StopWatchDecrease.csproj.CoreCompileInputs.cache
+C:\c#projects\StopWatchDecrease\obj\Debug\net8.0\StopWatchDecrease.dll
+C:\c#projects\StopWatchDecrease\obj\Debug\net8.0\refint\StopWatchDecrease.dll
+C:\c#projects\StopWatchDecrease\obj\Debug\net8.0\StopWatchDecrease.pdb
+C:\c#projects\StopWatchDecrease\obj\Debug\net8.0\StopWatchDecrease.genruntimeconfig.cache
+C:\c#projects\StopWatchDecrease\obj\Debug\net8.0\ref\StopWatchDecrease.dll

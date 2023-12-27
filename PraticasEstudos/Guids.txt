@@ -1,0 +1,20 @@
+using System;
+
+namespace PraticasEstudos
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            var id = Guid.NewGuid();
+            id.ToString();
+
+            id = new Guid("bb093652-0948-44db-9b1a-2d9882109d89");
+
+            // id = new Guid();
+            var escolha = id.ToString().Substring(3,8);
+            Console.WriteLine(escolha);
+            
+        }
+    }
+}

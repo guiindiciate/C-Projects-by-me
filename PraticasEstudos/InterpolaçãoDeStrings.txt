@@ -1,0 +1,18 @@
+using System;
+
+namespace PraticasEstudos
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            
+            var price = 10.2;
+            var texto = $@"O preço 
+            do produto é: {price}";
+            // var texto = string.Format("O preço do produto é {0} apenas na promoção {1}", price, true);
+
+            Console.WriteLine(texto);
+        }
+    }
+}
